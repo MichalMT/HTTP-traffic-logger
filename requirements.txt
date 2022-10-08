@@ -1,0 +1,5 @@
+ifcfg==0.22
+inquirer==2.7.0
+pyfiglet==0.8.post1
+scapy==2.4.4
+termcolor==1.1.0
